@@ -1,0 +1,26 @@
+{
+
+  "name": "ecommerce_project",
+
+  "version": "1.0.0",
+
+  "description": "Proyecto de e-commerce",
+
+  "main": "app.js",
+
+  "scripts": {
+
+    "start": "node app.js"
+
+  },
+
+  "dependencies": {
+
+    "express": "^4.17.1",
+
+    "uuid": "^10.0.0"
+
+  }
+
+}
+

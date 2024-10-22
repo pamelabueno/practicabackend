@@ -1,0 +1,16 @@
+[
+  {
+    "id": "55bfd03d-2007-4b85-9035-956c26a995da",
+    "title": "Camiseta de Algodón",
+    "description": "Camiseta de algodón 100% suave y cómoda.",
+    "code": "CAM-001",
+    "price": 19.99,
+    "status": true,
+    "stock": 150,
+    "category": "Ropa",
+    "thumbnails": [
+      "http://example.com/imagen1.jpg",
+      "http://example.com/imagen2.jpg"
+    ]
+  }
+]
